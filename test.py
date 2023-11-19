@@ -33,7 +33,7 @@ class TestMain(unittest.TestCase):
 
     def test_do_stuff4(self):
         '''
-        testing None
+        testing None input 
         '''
         test_param = None
         result = main.do_stuff(test_param)
